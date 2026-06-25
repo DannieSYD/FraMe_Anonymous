@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+workdir/
+checkpoints/
+*.ckpt
+wandb/
+.DS_Store

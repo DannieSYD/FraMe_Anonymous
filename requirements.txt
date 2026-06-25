@@ -1,0 +1,14 @@
+# Training / inference (use numpy==1.21.2)
+torch==2.0.0
+pytorch_lightning==2.0.4
+numpy==1.21.2
+mdtraj==1.9.9
+biopython==1.79
+einops
+torchdiffeq
+fair-esm
+dm-tree
+matplotlib==3.7.2
+wandb
+# openfold (for IPA / residue_constants); install per its own instructions
+# Analysis (swap to numpy==1.23.2): pyemma, statsmodels
